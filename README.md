@@ -50,14 +50,14 @@
 
 ## 推薦套件
 
-- 快速鍵對應設定
+- <font color="#2D9A70">快速鍵對應設定</font>
 
   - [Keisuke Kato/IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) 
   
-  PHPStorm,WebStorm 使用者 無痛轉移 VSCode (連結含快速鍵對應)
+      PHPStorm,WebStorm 使用者 無痛轉移 VSCode (連結含快速鍵對應)
 
 
-- 程式碼品質檢查
+- <font color="#2D9A70">程式碼品質檢查</font>
 
   - [Dirk Baeumer/ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) 
   
@@ -69,7 +69,7 @@
     CSS StyleLint程式碼檢查
 
 
-- 自動補全 格式化與修正
+- <font color="#2D9A70">自動補全 格式化與修正</font>
 
   - [Willian Whitehead/Bootstrap 3 Snippets](https://marketplace.visualstudio.com/items?itemName=wcwhitehead.bootstrap-3-snippets) 
   
@@ -116,7 +116,7 @@
     
 
 
-- Git版本控制強化
+- <font color="#2D9A70">Git版本控制強化</font>
 
   - [Don Jayamanne/Git History (git log)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) 
   
@@ -124,7 +124,7 @@
 
 
 
-- 介面與識別度優化
+- <font color="#2D9A70">介面與識別度優化</font>
      
 
   - [zhuangtongfa/One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) 
@@ -145,7 +145,7 @@
      
   - [CoenraadS/Brecket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   
- 誇號{} () 顏色另外醒目提示
+     誇號{} () 顏色另外醒目提示
 
      
   - [rid9/Date & Time](https://marketplace.visualstudio.com/items?itemName=rid9.datetime) 
@@ -154,7 +154,7 @@
 
 
 
-- 除錯
+- <font color="#2D9A70">除錯</font>
 
   - [Microsoft/Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) 
    
