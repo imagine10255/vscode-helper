@@ -1,0 +1,60 @@
+{
+  "Print to console": {
+    "prefix": "log",
+    "body": [
+      "console.log('$1');",
+      "$2"
+    ],
+    "description": "Log output to console"
+  },
+  "Import Styled-Scss": {
+    "prefix": "ips",
+    "body": [
+      "import styles from './styles.scss';",
+      "$2"
+    ],
+    "description": "Import Styled-Scss"
+  },
+  "React Function Component": {
+    "prefix": "epdc",
+    "body": [
+      "import React from 'react';",
+      "import styles from './styles.scss';",
+      "",
+      "export default function $1() {",
+      "\t$2",
+
+      "\treturn (",
+      "\t\t<div>",
+      "\t\t\t$3",
+      "\t\t</div>",
+      "\t);",
+      "}"
+    ],
+    "description": "React Function Component Template"
+  },
+  "React Class Component": {
+    "prefix": "epdc",
+    "body": [
+      "import React from 'react';",
+      "import PropTypes from 'prop-types';",
+      "import styles from './styles.scss';",
+      "",
+      "export default class $1 extends React.Component {",
+      "\tstatic propTypes = { $2 };",
+      "\tstatic defaultProps = { $3 };",
+      "\tstate = { $4 };",
+      "\t$5",
+
+      "\trender() {",
+      "\t\treturn (",
+      "\t\t\t<div>",
+      "\t\t\t\t$6",
+      "\t\t\t</div>",
+      "\t\t);",
+      "\t}",
+      "}"
+    ],
+    "description": "React Class Component Template"
+  }
+}
