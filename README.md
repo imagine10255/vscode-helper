@@ -3,7 +3,7 @@
 ![VSCode](./assets/vscode.png)
 
 
-## 介紹
+## 特性介紹
 
 1. 拼寫修正 (友情提示,點擊自動修正)
 
@@ -54,9 +54,15 @@
 
 ![斷點除錯](./assets/feature-11.png)
 
-12. 活躍的社群
 
-![活躍的社群](./assets/feature-12.png)
+12. 內建嵌入終端機
+
+![內建嵌入終端機](./assets/feature-12.png)
+
+
+13. 活躍的社群
+
+![活躍的社群](./assets/feature-13.png)
 
 ## 常用快速鍵
 
