@@ -10,7 +10,7 @@
 
 4. 內建Git版本控制
 
-5. Emmet Snippets (程式碼片段)
+5. Emmet Snippets (可自定義程式碼片段)
 
 6. 自動格式化程式碼
 
@@ -46,7 +46,12 @@
 ## 設定檔
 
 - [編輯器全域設定-OSX](setting/setting-osx.json)
-- [Javascript 程式碼片段](setting/javascript.json)
+
+
+- 程式碼片段設定
+
+  - [Javascript(.js)](setting/javascript.json)
+  
 
 ## 推薦套件
 
