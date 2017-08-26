@@ -2,9 +2,9 @@
 
 ![VSCode](./assets/vscode.png)
 
-## 特性介紹[連結](./feature.md)
+## 特性介紹 [連結](./feature.md)
 
-## 推薦套件[連結](./package)
+## 推薦套件 [連結](./package)
 
 ## 常用快速鍵
 
