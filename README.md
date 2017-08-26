@@ -2,19 +2,20 @@
 
 ![VSCode](./assets/vscode.png)
 
-## 特性介紹 [Link](./feature.md)
+## 目錄
 
-## 推薦套件 [Link](./package)
+- [特性介紹](./feature.md)
+
+- [推薦套件](./package.md)
+
+- 設定檔
+
+  - [編輯器全域設定-OSX](setting/setting-osx.json)
 
 
-## 設定檔
+   - 程式碼片段設定
 
-- [編輯器全域設定-OSX](setting/setting-osx.json)
-
-
-- 程式碼片段設定
-
-  - [Javascript(.js)](setting/javascript.json)
+      - [Javascript(.js)](setting/javascript.json)
  
 
 ## 常用快速鍵
