@@ -38,23 +38,23 @@
 
 9. 強大的 Intellisense
 
-   ![Intellisense1](./assets/feature-09a.png)
-   ![Intellisense2](./assets/feature-09b.png)
+    ![Intellisense1](./assets/feature-09a.png)
+    ![Intellisense2](./assets/feature-09b.png)
 
 10. 多行選取(Multi Cursor)
 
-   ![多行選取](./assets/feature-10.gif)
+    ![多行選取](./assets/feature-10.gif)
 
 11. 斷點除錯 Debug
 
-   ![斷點除錯](./assets/feature-11.png)
+    ![斷點除錯](./assets/feature-11.png)
 
 
 12. 內建嵌入終端機
 
-   ![內建嵌入終端機](./assets/feature-12.png)
+    ![內建嵌入終端機](./assets/feature-12.png)
 
 
 13. 活躍的社群
 
-   ![活躍的社群](./assets/feature-13.png)
+    ![活躍的社群](./assets/feature-13.png)
