@@ -11,6 +11,8 @@
 - 設定檔
 
   - [編輯器全域設定-OSX](setting/setting-osx.json)
+  
+  - [編輯器全域設定-Windows](setting/setting-windows.json)
 
 
    - 程式碼片段設定
