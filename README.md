@@ -28,8 +28,8 @@
 
 | 快速鍵功能 | OSX快速鍵 | Windows快速鍵 |
 |:----|:---------|:-------------|
-| 上一個游標位置 | Alt+Cmd+左 | Ctrl+左 |
-| 下一個游標位置 | Alt+Cmd+右 | Ctrl+右 |
+| 上一個游標位置 | Alt+Cmd+左 | Ctrl+Alt+左 |
+| 下一個游標位置 | Alt+Cmd+右 | Ctrl+Alt+右 |
 | 整列程式碼上下移動 | Shift+Cmd+上或下 | Shift+Ctr+上或下 |
 | 複製整列程式碼 | Cmd+D | Ctrl+D |
 | 重新命名檔案 | Shift+F6 | Shift+F6 |
