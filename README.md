@@ -2,9 +2,20 @@
 
 ![VSCode](./assets/vscode.png)
 
-## 特性介紹 [連結](./feature.md)
+## 特性介紹 [Link](./feature.md)
 
-## 推薦套件 [連結](./package)
+## 推薦套件 [Link](./package)
+
+
+## 設定檔
+
+- [編輯器全域設定-OSX](setting/setting-osx.json)
+
+
+- 程式碼片段設定
+
+  - [Javascript(.js)](setting/javascript.json)
+ 
 
 ## 常用快速鍵
 
@@ -21,14 +32,3 @@
 | 跳至指定行位置 | Cmd+L | 暫無 |
 | 多行選取(可跳行) | Shift+Alt+滑鼠壓住移動 | 暫無 | 
 | 開啟終端機 | Shift+Control+` | 暫無 |
-
-
-## 設定檔
-
-- [編輯器全域設定-OSX](setting/setting-osx.json)
-
-
-- 程式碼片段設定
-
-  - [Javascript(.js)](setting/javascript.json)
- 
