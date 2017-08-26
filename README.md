@@ -24,6 +24,8 @@
 
 ## 常用快速鍵
 
+需安裝 Keisuke Kato/IntelliJ IDEA Keybindings
+
 | 快速鍵功能 | OSX快速鍵 | Windows快速鍵 |
 |:----|:---------|:-------------|
 | 上一個游標位置 | Alt+Cmd+左 | Ctrl+左 |
