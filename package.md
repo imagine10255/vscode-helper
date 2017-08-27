@@ -110,3 +110,7 @@
   - [Microsoft/Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) 
    
     快速的開啟Chrome進行除錯功能
+
+  - [YuichiNukiyama/Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server)
+  
+    一鍵預覽開啟 browsersync, 不需架設Web伺服器
