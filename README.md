@@ -37,5 +37,5 @@
 | 新增VSCode視窗 | Shift+Cmd+ N | 暫無 |
 | 輸入關鍵字查找檔名並開啟檔案 | Shift+Cmd+O | Shift+Ctrl+N |
 | 跳至指定行位置 | Cmd+L | Ctrl+G |
-| 多行選取(可跳行) | Shift+Alt+滑鼠壓住移動 | Shift+Alt滑鼠壓住移動 | 
+| 多行選取(可跳行) | Shift+Alt+滑鼠壓住移動 | Shift+Alt+滑鼠壓住移動 | 
 | 開啟終端機 | Shift+Control+` | Shift+Ctrl+` |
