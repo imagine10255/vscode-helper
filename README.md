@@ -21,7 +21,7 @@
 
       - [Javascript(.js)](setting/javascript.json)
 
-   - HookyQR/VSCodeBeautify設定
+   - HookyQR/VSCodeBeautify設定(使用者設定加上 "beautify.config": "~/docker/.jsbeautifyrc")
 
       - [.jsbeautifyrc](setting/.jsbeautifyrc)
       
