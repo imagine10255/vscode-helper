@@ -20,6 +20,12 @@
    - 程式碼片段設定
 
       - [Javascript(.js)](setting/javascript.json)
+
+   - HookyQR/VSCodeBeautify設定
+
+      - [.jsbeautifyrc](setting/.jsbeautifyrc)
+      
+ 
  
 
 ## 常用快速鍵
