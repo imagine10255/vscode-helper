@@ -21,6 +21,7 @@
       "javascript": "javascriptreact"
   },
   "editor.formatOnSave": true,
+  "beautify.config": "~/Documents/.jsbeautifyrc",
   "beautify.language": {
       "js": {
           "type": ["json"],
