@@ -1,3 +1,4 @@
+//設定參數表 https://github.com/HookyQR/VSCodeBeautify/blob/master/Settings.md
 {
   "indent_size": 2,
   "indent_with_tabs": false,
@@ -14,5 +15,10 @@
 		"small",
         "span", "strong", "sub", "sup", "template", "textarea", "time", "u", "var", "video", "wbr", "text", "acronym",
         "address", "big", "dt", "ins", "small", "strike", "tt", "pre", "h1", "h2", "h3", "h4", "h5", "h6"
-    ]
+    ],
+    "css": {
+      "allowed_file_extensions": ["css", "scss", "sass", "less"],
+      "space_around_combinator": true, //[Boolean] Ensure space around selector separators (>+~). (default:false)
+      "preserve_newlines": false //[Boolean] Preserve line-breaks.自動刪除空列 (default:true)
+  }
 }
