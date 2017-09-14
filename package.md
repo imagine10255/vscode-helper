@@ -111,6 +111,13 @@
    
     快速的開啟Chrome進行除錯功能
 
-  - [YuichiNukiyama/Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server)
+  - [YuichiNukiyama/Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server)
   
-    一鍵預覽開啟 browsersync, 不需架設Web伺服器
+     一鍵預覽開啟 browsersync, 不需架設Web伺服器
+ 
+   - [peakchen90/Open HTML in Default Browser](https://marketplace.visualstudio.com/items?itemName=peakchen90.open-html-in-browser)
+
+     在Html畫面右鍵以瀏覽器開啟
+ 
+ 
+ 
