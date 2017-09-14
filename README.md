@@ -45,3 +45,4 @@
 | 跳至指定行位置 | Cmd+L | Ctrl+G |
 | 多行選取(可跳行) | Shift+Alt+滑鼠壓住移動 | Shift+Alt+滑鼠壓住移動 | 
 | 開啟終端機 | Shift+Control+` | Shift+Ctrl+` |
+| 開啟工作指令 | Shift+Cmd+P | Ctrl+P |
